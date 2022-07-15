@@ -13,4 +13,4 @@ Parte 2
 * Elija el número de bins que crea conveniente y grafique su histograma, compare los histogramas entre si. Explicar lo que se observa, si tuviera que entrenar un modelo de clasificación/detección de imágenes, considera que puede ser de utilidad tomar como ‘features’ a los histogramas?
 * Para la imagen segmentacion.png analice el histograma de los canales RGB. Segmente algunos de los elementos presentes en la imagen (agua, cielo, tierra) y muestre, aplicando mascaras, las regiones en imágenes separadas.
 
-![RESOLUCIÓN DEL TRABAJO PRÁCTICO 1](/TPs_resueltos/TP1/TP1.ipynb)
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 1](/TPs_resueltos/TP1/TP1.ipynb)
