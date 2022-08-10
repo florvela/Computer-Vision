@@ -14,3 +14,19 @@ Parte 2
 * Para la imagen segmentacion.png analice el histograma de los canales RGB. Segmente algunos de los elementos presentes en la imagen (agua, cielo, tierra) y muestre, aplicando mascaras, las regiones en imágenes separadas.
 
 [RESOLUCIÓN DEL TRABAJO PRÁCTICO 1](/TPs_resueltos/TP1/TP1.ipynb)
+
+## Trabajo Práctico 2
+Implementar la función create_gauss_filter(h, w, k_size, sigma) para crear filtros gaussianos para filtrado espectral. Debe retornar un filtro gaussiano de tamaño HxW en dominio espacial y su transformada de Fourier.
+
+1. Graficar ambas representaciones para diferentes tamaños de kernel y sigma. Aplicar el filtro una imagen para validar el funcionamiento en el dominio espectral.
+2. Comparar el resultado de hacer un filtrado por convolución con el mismo kernel.
+
+Para la imagen suministrada “metal grid”. Implementar un algoritmo que:
+
+1. Calcule los gradientes en la imagen (dirección y módulo)
+2. Muestre imágenes de ángulo y módulo
+3. Marque con colores las direcciones de gradientes más representativos.
+
+![alt text](/TPs_resueltos/TP2/img/metalgrid.png)
+
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 1](/TPs_resueltos/TP2/TP2.ipynb)
