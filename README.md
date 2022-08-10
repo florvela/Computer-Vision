@@ -27,6 +27,6 @@ Para la imagen suministrada “metal grid”. Implementar un algoritmo que:
 2. Muestre imágenes de ángulo y módulo
 3. Marque con colores las direcciones de gradientes más representativos.
 
-![alt text](/TPs_resueltos/TP2/img/metalgrid.png)
+![alt text](/TPs_resueltos/TP2/img/metalgrid.jpg)
 
-[RESOLUCIÓN DEL TRABAJO PRÁCTICO 1](/TPs_resueltos/TP2/TP2.ipynb)
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 2](/TPs_resueltos/TP2/TP2.ipynb)
