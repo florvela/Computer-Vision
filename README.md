@@ -30,3 +30,27 @@ Para la imagen suministrada “metal grid”. Implementar un algoritmo que:
 ![alt text](/TPs_resueltos/TP2/img/metalgrid.jpg)
 
 [RESOLUCIÓN DEL TRABAJO PRÁCTICO 2](/TPs_resueltos/TP2/TP2.ipynb)
+
+## Trabajo Práctico 3
+
+Encontrar el logotipo de la gaseosa dentro de las imágenes provistas en `Material_TPs/TP3/images` a partir del template `Material_TPs/TP3/template`
+
+1. (4 puntos) Obtener una detección del logo en cada imagen sin falsos positivos
+2. (4 puntos) Plantear y validar un algoritmo para múltiples detecciones en la imagen coca_multi.png con el mismo témplate del item 2
+3. (2 puntos) Generalizar el algoritmo del item 2 para todas las imágenes.
+
+Visualizar los resultados con bounding boxes en cada imagen mostrando el nivel de confianza de la detección.
+
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 3](/TPs_resueltos/TP43/TP3.ipynb)
+
+## Trabajo Práctico 4
+
+Para las imágenes suministradas:
+
+1. Implementar un extractor de características LBP básico (sin uniformidad, 8 vecinos)
+2. Realizar el histograma de características LBP de la imagen
+3. Comparar los histogramas
+
+![alt text](img/img_2.png)
+
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 4](/TPs_resueltos/TP4/TP4.ipynb)
