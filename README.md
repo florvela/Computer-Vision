@@ -41,7 +41,7 @@ Encontrar el logotipo de la gaseosa dentro de las imágenes provistas en `Materi
 
 Visualizar los resultados con bounding boxes en cada imagen mostrando el nivel de confianza de la detección.
 
-[RESOLUCIÓN DEL TRABAJO PRÁCTICO 3](/TPs_resueltos/TP43/TP3.ipynb)
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 3](/TPs_resueltos/TP3/TP3.ipynb)
 
 ## Trabajo Práctico 4
 
