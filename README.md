@@ -54,3 +54,13 @@ Para las imágenes suministradas:
 ![alt text](img/img_2.png)
 
 [RESOLUCIÓN DEL TRABAJO PRÁCTICO 4](/TPs_resueltos/TP4/TP4.ipynb)
+
+## Trabajo Práctico 5
+
+Objetivo:
+
+1. Implementar el detector de fondo naive usando la mediana como estimador. El algoritmo debe recibir el parámetro N (cantidad de frames utilizados para la estimación) y el intervalo de tiempo para recalcular el fondo.
+2. Se deben generar las mascaras de foreground y aplicarlas a los frames para segmentar los objetos en movimiento.
+3. Comparar con alguno de los métodos vistos en la practica basados en mezcla de gaussianas
+
+[RESOLUCIÓN DEL TRABAJO PRÁCTICO 5](/TPs_resueltos/TP5/TP5.ipynb)
